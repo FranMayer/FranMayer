@@ -1,4 +1,4 @@
-# Hola! 🚀👽
+# console.log(Hola! 🚀👽)
 
 Mi nombre es Franco, tengo 26 años y soy de Córdoba, actualmente estoy estudiando desarrollo web front end, recien recibido de Coderhouse y actualmente cursando Javascript...🤖
 
@@ -8,4 +8,4 @@ Mi nombre es Franco, tengo 26 años y soy de Córdoba, actualmente estoy estudia
 
 ## Skills 👾
 
-* [HTML](./assets/html-5.png)
+* ![HTML](./assets/html-5.png)
