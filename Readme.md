@@ -8,4 +8,4 @@ Mi nombre es Franco, tengo 26 años y soy de Córdoba, actualmente estoy estudia
 
 ## Skills 👾
 
-* [HTML]
+* [HTML](https://www.flaticon.es/icono-gratis/html-5_732212?term=html&page=1&position=2&origin=search&related_id=732212)
