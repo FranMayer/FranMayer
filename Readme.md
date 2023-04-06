@@ -1,6 +1,6 @@
 # console.log(Hola! 🚀👽)
 
-Mi nombre es Franco, tengo 26 años y soy de Córdoba, actualmente estoy estudiando desarrollo web front end, recien recibido de Coderhouse y actualmente cursando Javascript...🤖
+Mi nombre es Franco, tengo 26 años y soy de Córdoba, actualmente estoy estudiando desarrollo web front end, recien recibido de Coderhouse y mientras cursando Javascript...🤖
 
 * Actualmente trabajando en [FuniversityLA](https://funiversity.la) en el Dpto de Desarrollo como soporte técnico.💻
 * Tengo mi pagina personal donde podes encontrar mi [portfolio](franmayer.github.io/FranMayerProyect/), recursos para programadores, info necesaria para contactarme y demas...👨‍💻
