@@ -4,7 +4,7 @@ Mi nombre es Franco, tengo 26 años y soy de Córdoba, actualmente estoy estudia
 
 * Actualmente trabajando en [FuniversityLA](https://funiversity.la) en el Dpto de Desarrollo como soporte técnico.💻
 * Tengo mi pagina personal donde podes encontrar mi [portfolio](franmayer.github.io/FranMayerProyect/), recursos para programadores, info necesaria para contactarme y demas...👨‍💻
-* Estoy trabajando actualmente pero abierto a recibir ofertas. 🙌
+* Open to proposals. 🙌
 
 ## Skills 👾
 
