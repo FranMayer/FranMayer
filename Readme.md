@@ -1,6 +1,6 @@
 # console.log(Hola! 🚀👽)
 
-Mi nombre es Franco, tengo 26 años y soy de Córdoba, actualmente estoy estudiando desarrollo web front end, recien recibido de Coderhouse y mientras cursando Javascript...🤖
+Soy Franco, tengo 26 años y provengo de Córdoba, aunque actualmente resido en Buenos Aires. Estoy enfocado en mi formación, estudiando desarrollo web front-end en NUCBA y desarrollo .NET en Educación IT. Recientemente, obtuve mi certificación de Coderhouse en desarrollo.
 
 * Actualmente trabajando en [FuniversityLA](https://funiversity.la) en el Dpto de Desarrollo como soporte técnico.💻
 * Tengo mi pagina personal donde podes encontrar mi [portfolio](franmayer.github.io/FranMayerProyect/), recursos para programadores, info necesaria para contactarme y demas...👨‍💻
@@ -8,26 +8,23 @@ Mi nombre es Franco, tengo 26 años y soy de Córdoba, actualmente estoy estudia
 
 ## Skills 👾
 
-* HTML5
+* HTML 5
 * CSS 3
 * Javascript
-
-* Comunicacíon
-* Puntualidad
-* Dedicación
-* Resolutivo
-
+  
 ## Frameworks 🖱
 
 * Bootstrap
-* Ness
-* Milligram
+* Ness.CSS
+* Milligram JS
 
 ## Lenguajes en estudio
 
 * React Js
 * Angular 
-* MySql
+* SQL
+* C#
+* .NET
 
 Gracias por visitar mi perfil! Si deseas contactar conmigo te dejo links de interes!
 
