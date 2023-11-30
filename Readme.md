@@ -1,6 +1,6 @@
 # console.log(Hola! 🚀👽)
 
-Soy Franco, tengo 26 años y provengo de Córdoba, aunque actualmente resido en Buenos Aires. Estoy enfocado en mi formación, estudiando desarrollo web front-end en NUCBA y desarrollo .NET en Educación IT. Recientemente, obtuve mi certificación de Coderhouse en desarrollo.
+Soy Franco, tengo 27 años y provengo de Córdoba, aunque actualmente resido en Buenos Aires. Estoy enfocado en mi formación, estudiando desarrollo web front-end en NUCBA y desarrollo .NET en Educación IT. Recientemente, obtuve mi certificación de Coderhouse en desarrollo.
 
 * Actualmente trabajando en [FuniversityLA](https://funiversity.la) en el Dpto de Desarrollo como soporte técnico.💻
 * Tengo mi pagina personal donde podes encontrar mi [portfolio](franmayer.github.io/FranMayerProyect/), recursos para programadores, info necesaria para contactarme y demas...👨‍💻
