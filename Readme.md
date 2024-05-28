@@ -3,7 +3,7 @@
 Soy Franco, tengo 27 años y soy de la provincia de Córdoba. Estoy enfocado en mi formación, estudiando desarrollo web full-stack en NUCBA. Recientemente, obtuve mi certificación de Coderhouse en desarrollo web front end.
 
 * Actualmente trabajando en [FUDO](https://fu.do/es-ar/) en el Dpto de Desarrollo como soporte técnico.💻
-* Tengo mi pagina personal donde podes encontrar mi [portfolio](portfolio-fm.vercel.app), proyectos, info necesaria para contactarme y demas...👨‍💻
+* Tengo mi pagina personal donde podes encontrar mi [portfolio](https://portfolio-fm.vercel.app), proyectos, info necesaria para contactarme y demas...👨‍💻
 * Open to proposals. 🙌
 
 ## Skills 👾
