@@ -21,8 +21,8 @@ Soy Franco, tengo 28 años y soy de la provincia de Córdoba. Estoy enfocado en 
 ## Lenguajes en estudio
 
 * React Js
-* SQL
-* .NET
+* PHP
+* MySQL
 
 Gracias por visitar mi perfil! Si deseas contactar conmigo te dejo links de interes!
 
