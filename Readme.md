@@ -1,30 +1,32 @@
-# console.log(Hola! 🚀👽)
+# console.log(Hello! 🚀👽)
 
-Soy Franco, tengo 28 años y soy de la provincia de Córdoba, Argentina. Estoy enfocado en mi formación, estudiando de forma autodidacta y tambien con cursos en Udemy y la academia APX. A lo largo de mi trayectoria, he trabajado en proyectos que abarcan desde el diseño responsive hasta la implementación de frameworks modernos como Bootstrap 5 y Sass, optimizando cada detalle para garantizar una experiencia de usuario impecable. Además, mis conocimientos en JavaScript y herramientas como Milligram.js me han permitido desarrollar interfaces dinámicas que combinan estética y funcionalidad.
+Hi, I’m Franco! I’m 28 years old and from Córdoba, Argentina. I’m focused on improving my skills through self-learning and courses from platforms like Udemy and APX Academy. Throughout my journey, I’ve worked on projects ranging from responsive design to implementing modern frameworks like **Bootstrap 5** and **Sass**, optimizing every detail to ensure a flawless user experience. Additionally, my knowledge of **JavaScript** and tools like **Milligram.js** has allowed me to create dynamic interfaces that balance aesthetics and functionality.
 
-* Actualmente estoy en busqueda laboral activa 💻
-* Tengo mi pagina personal donde podes encontrar mi [portfolio](https://portfolio-fm.vercel.app), proyectos, info necesaria para contactarme y demas...👨‍💻
-* Open to proposals. 🙌
+- 💻 **Currently seeking job opportunities**  
+- 👨‍💻 **Check out my personal website**: [Portfolio](https://portfolio-fm.vercel.app)  
+- 🙌 **Open to proposals**
 
 ## Skills 👾
 
-* HTML 5
-* CSS 3
-* Javascript
-  
+- **HTML 5**  
+- **CSS 3**  
+- **JavaScript**
+
 ## Frameworks 🖱
 
-* Bootstrap
-* Ness.CSS
-* Milligram JS
+- **Bootstrap**  
+- **Ness.CSS**  
+- **Milligram JS**
 
-## Lenguajes en estudio
+## Languages I'm Learning 🌱
 
-* React Js
-* PHP
-* MySQL
+- **React JS**  
+- **PHP**  
+- **MySQL**
 
-Gracias por visitar mi perfil! Si deseas contactar conmigo te dejo links de interes!
+---
 
-* [Linkedin](https://www.linkedin.com/in/franmayer/)📚
-* [Instagram](https://www.instagram.com/franmayerdev/)😎
+Thank you for visiting my profile! If you’d like to get in touch, here are some links of interest:
+
+- [LinkedIn](https://www.linkedin.com/in/franmayer/) 📚  
+- [Instagram](https://www.instagram.com/franmayerdev/) 😎
