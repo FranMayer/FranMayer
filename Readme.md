@@ -68,6 +68,6 @@
 
 ## 📫 Get in Touch  
 - 🌐 [Portfolio](https://portfolio-fm.vercel.app)  
-- 💼 [LinkedIn](https://linkedin.com/in/franco-mayer)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/franmayer/)  
 - 📧 [Email](mailto:francomayer96@outlook.com)  
 
