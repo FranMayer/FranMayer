@@ -27,15 +27,27 @@
 - **Ness.CSS**  
 - **Milligram JS**
 
-- ## 🌟 Highlighted Projects  
+## 🌟 Highlighted Projects
 
-- **[Personal Portfolio](https://github.com/FranMayer/portfolio-project)**  
-  _A responsive portfolio to showcase my work and skills._  
+- **[Hub](https://github.com/FranMayer/hub)**  
+  _A website for a digital marketing agency with a modern and responsive design._  
   Technologies: HTML, CSS, JavaScript  
+  [Live Demo](https://franmayer.github.io/hub/)
+
+- **[Calculator](https://github.com/FranMayer/calculator)**  
+  _An interactive calculator application with an intuitive user interface._  
+  Technologies: HTML, CSS, JavaScript  
+  [Live Demo](https://franmayer.github.io/calculator/)
+
+- **[Portfolio-FM](https://github.com/FranMayer/Portfolio-FM)**  
+  _A personal portfolio to showcase my projects and skills._  
+  Technologies: HTML, CSS, JavaScript  
+  [Live Demo](https://portfolio-fm.vercel.app/)
 
 - **[E-Commerce Demo](https://github.com/FranMayer/ecommerce-project)**  
   _A prototype of an e-commerce website with a shopping cart and responsive design._  
-  Technologies: HTML, Bootstrap, SASS
+  Technologies: HTML, Bootstrap, SASS  
+
     
 ## 🤝 Contributions  
 - Contributing to open-source repositories  
