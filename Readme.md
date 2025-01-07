@@ -5,9 +5,9 @@
 ### 🚀 Front-End Developer | Passionate About Code and Intuitive Web Design  
   
 
--🌍 Based in Córdoba, Argentina. 
--🎯 Open to new freelance or remote opportunities  
--✨ Passionate about: technology, design, and solving creative challenges  
+- 🌍 Based in Córdoba, Argentina. 
+- 🎯 Open to new freelance or remote opportunities  
+- ✨ Passionate about: technology, design, and solving creative challenges  
 - 💻 **Currently seeking job opportunities**  
 - 👨‍💻 **Check out my personal website**: [Portfolio](https://portfolio-fm.vercel.app)  
 - 🙌 **Open to proposals**
