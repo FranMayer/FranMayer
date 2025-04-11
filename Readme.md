@@ -2,7 +2,6 @@
 
 # 👋 Hey, I'm Franco Mayer
 
-```js
 console.log("Hello World! 🚀 Let's build something awesome.");
 
 
@@ -17,8 +16,8 @@ console.log("Hello World! 🚀 Let's build something awesome.");
 - 🙌 **Open to proposals**
 
 ## 🛠️ Technologies  
-- **Front-End**: HTML, CSS, JavaScript, Bootstrap, SASS  
-- **Currently Learning**: React, PHP, MySQL  
+- **Front-End**: HTML, CSS, JavaScript, React, Bootstrap, Sass  
+- **Currently Learning**: PHP, MySQL  
 - **Tools**: Git, VS Code  
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)  
