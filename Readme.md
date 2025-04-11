@@ -1,6 +1,10 @@
 # console.log(Hello! 🚀👽)
 
-# 👋 Hi, I'm Franco Mayer!  
+# 👋 Hey, I'm Franco Mayer
+
+```js
+console.log("Hello World! 🚀 Let's build something awesome.");
+
 
 ### 🚀 Front-End Developer | Passionate About Code and Intuitive Web Design  
   
@@ -69,5 +73,7 @@
 ## 📫 Get in Touch  
 - 🌐 [Portfolio](https://portfolio-fm.vercel.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/franmayer/)  
-- 📧 [Email](mailto:francomayer96@outlook.com)  
+- 📧 [Email](mailto:francomayer96@outlook.com)
+
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
