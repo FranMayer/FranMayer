@@ -1,78 +1,75 @@
-# console.log(Hello! 🚀👽)
+/badge/-JavaScript-yellow?style=flat-square)  
 
-# 👋 Hey, I'm Franco Mayer
+## 👋 About Me
 
-console.log("Hello World! 🚀 Let's build something awesome.");
+Hi! I'm **Franco Mayer**, a passionate **Frontend Developer** currently transitioning into **QA Automation**.  
+I enjoy building clean, accessible UIs — and now I'm focused on making sure they also work perfectly through automated testing.  
+Combining development and testing is how I build better software.
 
+---
 
-### 🚀 Front-End Developer | Passionate About Code and Intuitive Web Design  
-  
+## 🧪 QA Automation Projects
 
-- 🌍 Based in Córdoba, Argentina. 
-- 🎯 Open to new freelance or remote opportunities  
-- ✨ Passionate about: technology, design, and solving creative challenges  
-- 💻 **Currently seeking job opportunities**  
-- 👨‍💻 **Check out my personal website**: [Portfolio](https://portfolio-fm.vercel.app)  
-- 🙌 **Open to proposals**
+> 🛠️ Coming soon!  
+> I'll be uploading end-to-end tests, API testing samples, and automation challenges as I continue learning and growing in QA.
 
-## 🛠️ Technologies  
-- **Front-End**: HTML, CSS, JavaScript, React, Bootstrap, Sass  
-- **Currently Learning**: PHP, MySQL  
-- **Tools**: Git, VS Code  
+---
 
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)  
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square)  
-
-## Frameworks 🖱
-
-- **Bootstrap**  
-- **Ness.CSS**  
-- **Milligram JS**
-
-## 🌟 Highlighted Projects
+## 💻 Frontend Projects
 
 - **[Hub](https://github.com/FranMayer/hub)**  
-  _A website for a digital marketing agency with a modern and responsive design._  
+  _A modern website for a digital marketing agency._  
   Technologies: HTML, CSS, JavaScript  
   [Live Demo](https://franmayer.github.io/hub/)
 
 - **[Calculator](https://github.com/FranMayer/calculator)**  
-  _An interactive calculator application with an intuitive user interface._  
+  _Interactive calculator with a clean UI._  
   Technologies: HTML, CSS, JavaScript  
   [Live Demo](https://franmayer.github.io/calculator/)
 
 - **[Portfolio-FM](https://github.com/FranMayer/Portfolio-FM)**  
-  _A personal portfolio to showcase my projects and skills._  
+  _My personal portfolio built from scratch._  
   Technologies: HTML, CSS, JavaScript  
   [Live Demo](https://portfolio-fm.vercel.app/)
 
 - **[E-Commerce Demo](https://github.com/FranMayer/ecommerce-project)**  
-  _A prototype of an e-commerce website with a shopping cart and responsive design._  
+  _Prototype of a shopping platform._  
   Technologies: HTML, Bootstrap, SASS  
 
-    
+---
+
+## 🧰 Tech Stack
+
+**Frontend:**  
+HTML • CSS • JavaScript • Bootstrap • Sass • React (learning)
+
+**Testing & QA:**  
+Cypress • Postman • Newman • GitHub Actions • JavaScript Testing Libraries
+
+---
+
 ## 🤝 Contributions  
-- Contributing to open-source repositories  
-- Reporting issues and suggesting improvements within the community  
+- Reporting bugs and writing test scenarios  
+- Improving test coverage in personal and open-source projects  
 
+---
 
-## Languages I'm Learning 🌱
+## 🌱 Currently Learning
 
 - **React JS**  
-- **PHP**  
-- **MySQL**
+- **API Automation Testing**  
+- **CI/CD with GitHub Actions**  
 
 ---
 
 ![FranMayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranMayer&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranMayer&layout=compact&theme=radical)  
 
+---
 
 ## 📫 Get in Touch  
 - 🌐 [Portfolio](https://portfolio-fm.vercel.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/franmayer/)  
 - 📧 [Email](mailto:francomayer96@outlook.com)
 
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+> “Code that’s not tested is broken by design.” – Anonymous
