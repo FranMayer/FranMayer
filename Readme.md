@@ -1,5 +1,4 @@
-/badge/-JavaScript-yellow?style=flat-square)  
-
+CONSOLE.LOG(✌️Hello!)
 ## 👋 About Me
 
 Hi! I'm **Franco Mayer**, a passionate **Frontend Developer** currently transitioning into **QA Automation**.  
