@@ -9,9 +9,9 @@ Combining development and testing is how I build better software.
 
 ## 🧪 QA Automation Projects
 
-> 🛠️ Coming soon!  
-> I'll be uploading end-to-end tests, API testing samples, and automation challenges as I continue learning and growing in QA.
-
+ **[Cypress API Tests - Rick & Morty](https://github.com/FranMayer/cypress-api-tests-rickandmorty)**
+  _Automated API tests using Cypress to validate key endpoints of the public Rick and Morty API._
+  Technologies: Cypress, JavaScript
 ---
 
 ## 💻 Frontend Projects
