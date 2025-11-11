@@ -9,7 +9,7 @@ Combining development and testing is how I build better software.
 
 ## 🧪 QA Automation Projects
 
- - **[Cypress API Tests - Rick & Morty](https://github.com/FranMayer/cypress-api-tests-rickandmorty)**
+ -- **[Cypress API Tests - Rick & Morty](https://github.com/FranMayer/cypress-api-tests-rickandmorty)**
   _API test automation for the Rick & Morty API._
   Technologies: Cypress, JavaScript
 ---
